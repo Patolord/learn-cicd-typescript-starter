@@ -3,3 +3,6 @@ coverage/
 dist/
 .env
 .vscode
+
+# Local Google Cloud service account keys
+notely-*.json
